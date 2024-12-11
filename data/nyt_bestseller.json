@@ -1,0 +1,3202 @@
+[
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db18b"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1211587200000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1212883200000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Odd-Hours-Dean-Koontz/dp/0553807056?tag=NYTBS-20",
+    "author": "Dean R Koontz",
+    "description": "Odd Thomas, who can communicate with the dead, confronts evil forces in a California coastal town.",
+    "price": {
+      "$numberInt": "27"
+    },
+    "publisher": "Bantam",
+    "title": "ODD HOURS",
+    "rank": {
+      "$numberInt": "1"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db18c"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1211587200000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1212883200000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/The-Host-Novel-Stephenie-Meyer/dp/0316218502?tag=NYTBS-20",
+    "author": "Stephenie Meyer",
+    "description": "Aliens have taken control of the minds and bodies of most humans, but one woman won’t surrender.",
+    "price": {
+      "$numberDouble": "25.99"
+    },
+    "publisher": "Little, Brown",
+    "title": "THE HOST",
+    "rank": {
+      "$numberInt": "2"
+    },
+    "rank_last_week": {
+      "$numberInt": "1"
+    },
+    "weeks_on_list": {
+      "$numberInt": "3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db18d"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1211587200000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1212883200000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Love-Youre-With-Emily-Giffin/dp/0312348665?tag=NYTBS-20",
+    "author": "Emily Giffin",
+    "description": "A woman's happy marriage is shaken when she encounters an old boyfriend.",
+    "price": {
+      "$numberDouble": "24.95"
+    },
+    "publisher": "St. Martin's",
+    "title": "LOVE THE ONE YOU'RE WITH",
+    "rank": {
+      "$numberInt": "3"
+    },
+    "rank_last_week": {
+      "$numberInt": "2"
+    },
+    "weeks_on_list": {
+      "$numberInt": "2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db18e"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1211587200000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1212883200000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/The-Front-Garano-Patricia-Cornwell-ebook/dp/B0017T0C9M?tag=NYTBS-20",
+    "author": "Patricia Cornwell",
+    "description": "A Massachusetts state investigator and his team from \"At Risk\" confront a rogue association of municipal police departments.",
+    "price": {
+      "$numberDouble": "22.95"
+    },
+    "publisher": "Putnam",
+    "title": "THE FRONT",
+    "rank": {
+      "$numberInt": "4"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db18f"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1211587200000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1212883200000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Snuff-Chuck-Palahniuk/dp/0385517882?tag=NYTBS-20",
+    "author": "Chuck Palahniuk",
+    "description": "An aging porn queens aims to cap her career by having sex on film with 600 men in one day.",
+    "price": {
+      "$numberDouble": "24.95"
+    },
+    "publisher": "Doubleday",
+    "title": "SNUFF",
+    "rank": {
+      "$numberInt": "5"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db190"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1211587200000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1212883200000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Sundays-at-Tiffanys-James-Patterson/dp/0446199443?tag=NYTBS-20",
+    "author": "James Patterson and Gabrielle Charbonnet",
+    "description": "A woman finds an unexpected love",
+    "price": {
+      "$numberDouble": "24.99"
+    },
+    "publisher": "Little, Brown",
+    "title": "SUNDAYS AT TIFFANY’S",
+    "rank": {
+      "$numberInt": "6"
+    },
+    "rank_last_week": {
+      "$numberInt": "3"
+    },
+    "weeks_on_list": {
+      "$numberInt": "4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db191"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1211587200000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1212883200000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Phantom-Prey-John-Sandford/dp/0425227987?tag=NYTBS-20",
+    "author": "John Sandford",
+    "description": "The Minneapolis detective Lucas Davenport investigates a string of murders of young Goths.",
+    "price": {
+      "$numberDouble": "26.95"
+    },
+    "publisher": "Putnam",
+    "title": "PHANTOM PREY",
+    "rank": {
+      "$numberInt": "7"
+    },
+    "rank_last_week": {
+      "$numberInt": "4"
+    },
+    "weeks_on_list": {
+      "$numberInt": "3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db192"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1211587200000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1212883200000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/From-Worse-Southern-Vampire-Mysteries/dp/0441015891?tag=NYTBS-20",
+    "author": "Jimmy Buffett",
+    "description": "A Southern family tries to hide its pet pig at a New York luxury hotel.",
+    "price": {
+      "$numberDouble": "21.99"
+    },
+    "publisher": "Little, Brown",
+    "title": "SWINE NOT?",
+    "rank": {
+      "$numberInt": "8"
+    },
+    "rank_last_week": {
+      "$numberInt": "6"
+    },
+    "weeks_on_list": {
+      "$numberInt": "2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db193"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1211587200000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1212883200000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Where-Are-You-Now-Novel/dp/1416566384?tag=NYTBS-20",
+    "author": "Elizabeth George",
+    "description": "In Cornwall, trying to recover from his wife's death, Detective Thomas Lynley becomes involved in a murder investigation.",
+    "price": {
+      "$numberDouble": "27.95"
+    },
+    "publisher": "Harper",
+    "title": "CARELESS IN RED",
+    "rank": {
+      "$numberInt": "9"
+    },
+    "rank_last_week": {
+      "$numberInt": "8"
+    },
+    "weeks_on_list": {
+      "$numberInt": "3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db194"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1211587200000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1212883200000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/The-Whole-Truth-David-Baldacci/dp/0446539686?tag=NYTBS-20",
+    "author": "David Baldacci",
+    "description": "An intelligence agent and a journalist team up against a warmongering defense contractor.",
+    "price": {
+      "$numberDouble": "26.99"
+    },
+    "publisher": "Grand Central",
+    "title": "THE WHOLE TRUTH",
+    "rank": {
+      "$numberInt": "10"
+    },
+    "rank_last_week": {
+      "$numberInt": "7"
+    },
+    "weeks_on_list": {
+      "$numberInt": "5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db195"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1211587200000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1212883200000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Careless-Red-Novel-Elizabeth-George/dp/0061160873?tag=NYTBS-20",
+    "author": "Troy Denning",
+    "description": "The New Jedi order battles Darth Caedus, Darth Vader's gradson; a 'Star Wars: Legacy of the Force' novel.",
+    "price": {
+      "$numberInt": "27"
+    },
+    "publisher": "Del Rey/Ballantine",
+    "title": "INVINCIBLE",
+    "rank": {
+      "$numberInt": "11"
+    },
+    "rank_last_week": {
+      "$numberInt": "5"
+    },
+    "weeks_on_list": {
+      "$numberInt": "2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db196"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1211587200000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1212883200000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Unaccustomed-Earth-Jhumpa-Lahiri/dp/0307265730?tag=NYTBS-20",
+    "author": "James Frey",
+    "description": "A novel, set in Los Angeles, by the author of \"A Million Little Pieces.\"",
+    "price": {
+      "$numberDouble": "26.95"
+    },
+    "publisher": "Harper",
+    "title": "BRIGHT SHINY MORNING",
+    "rank": {
+      "$numberInt": "12"
+    },
+    "rank_last_week": {
+      "$numberInt": "9"
+    },
+    "weeks_on_list": {
+      "$numberInt": "2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db197"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1211587200000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1212883200000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/The-Racing-Rain-Garth-Stein-ebook/dp/B0017SWPXY?tag=NYTBS-20",
+    "author": "Garth Stein",
+    "description": "A Lab-terrier mix with great insight into the human condition helps his owner, a struggling race car driver.",
+    "price": {
+      "$numberDouble": "23.95"
+    },
+    "publisher": "Harper",
+    "title": "THE ART OF RACING IN THE RAIN",
+    "rank": {
+      "$numberInt": "13"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db198"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1211587200000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1212883200000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Twenty-Wishes-Blossom-Street-Books/dp/0778326314?tag=NYTBS-20",
+    "author": "Debbie Macomber",
+    "description": "A widow who owns a bookstore on Blossom Street compiles a list of things she always wanted to do.",
+    "price": {
+      "$numberDouble": "24.95"
+    },
+    "publisher": "Mira",
+    "title": "TWENTY WISHES",
+    "rank": {
+      "$numberInt": "14"
+    },
+    "rank_last_week": {
+      "$numberInt": "10"
+    },
+    "weeks_on_list": {
+      "$numberInt": "4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db199"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1211587200000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1212883200000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Hold-Tight-Harlan-Coben/dp/0525950605?tag=NYTBS-20",
+    "author": "Jeff Shaara",
+    "description": "A novel about the Allied invasion in France in World War II.",
+    "price": {
+      "$numberInt": "28"
+    },
+    "publisher": "Ballantine",
+    "title": "THE STEEL WAVE",
+    "rank": {
+      "$numberInt": "15"
+    },
+    "rank_last_week": {
+      "$numberInt": "11"
+    },
+    "weeks_on_list": {
+      "$numberInt": "2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db19a"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1211587200000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1212883200000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Executive-Privilege-Novel-Phillip-Margolin/dp/0061236217?tag=NYTBS-20",
+    "author": "Phillip Margolin",
+    "description": "",
+    "price": {
+      "$numberInt": "0"
+    },
+    "publisher": "HarperCollins Publishers",
+    "title": "EXECUTIVE PRIVILEGE",
+    "rank": {
+      "$numberInt": "16"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db19b"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1211587200000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1212883200000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Unaccustomed-Vintage-Contemporaries-Jhumpa-Lahiri/dp/0307278255?tag=NYTBS-20",
+    "author": "Jhumpa Lahiri",
+    "description": "Stories of the anxiety and transformation experienced by Bengalis in America.",
+    "price": {
+      "$numberInt": "0"
+    },
+    "publisher": "Knopf",
+    "title": "UNACCUSTOMED EARTH",
+    "rank": {
+      "$numberInt": "17"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db19c"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1211587200000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1212883200000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Netherland-A-Novel-Joseph-ONeill/dp/0307377040?tag=NYTBS-20",
+    "author": "Joseph O'Neill",
+    "description": "A Dutchman deserted by his wife after 9/11 finds solace in New York’s immigrant cricket scene.",
+    "price": {
+      "$numberInt": "0"
+    },
+    "publisher": "Knopf Publishing Group",
+    "title": "NETHERLAND",
+    "rank": {
+      "$numberInt": "18"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db19d"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1211587200000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1212883200000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/The-Appeal-John-Grisham/dp/0440243815?tag=NYTBS-20",
+    "author": "John Grisham",
+    "description": "Political and legal intrigue ensue when a Mississippi court rules against a company accused of dumping toxic waste.",
+    "price": {
+      "$numberInt": "0"
+    },
+    "publisher": "Doubleday Publishing",
+    "title": "THE APPEAL",
+    "rank": {
+      "$numberInt": "19"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db19e"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1211587200000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1212883200000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Indiana-Jones-Kingdom-Crystal-Skull/dp/0345501284?tag=NYTBS-20",
+    "author": "James Rollins",
+    "description": "",
+    "price": {
+      "$numberInt": "0"
+    },
+    "publisher": "Random House Publishing Group",
+    "title": "INDIANA JONES AND THE KINGDOM OF THE CRYSTAL SKULL",
+    "rank": {
+      "$numberInt": "20"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db19f"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212192000000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1213488000000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Blood-Anita-Blake-Vampire-Hunter/dp/0515146374?tag=NYTBS-20",
+    "author": "Laurell K Hamilton",
+    "description": "The vampire hunter Anita Blake is involved in a scandal that threatens the master vampire Jean-Claude’s power.",
+    "price": {
+      "$numberDouble": "25.95"
+    },
+    "publisher": "Berkley",
+    "title": "BLOOD NOIR",
+    "rank": {
+      "$numberInt": "1"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1a0"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212192000000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1213488000000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/The-Host-Novel-Stephenie-Meyer/dp/0316218502?tag=NYTBS-20",
+    "author": "Stephenie Meyer",
+    "description": "Aliens have taken control of the minds and bodies of most humans, but one woman won’t surrender.",
+    "price": {
+      "$numberDouble": "25.99"
+    },
+    "publisher": "Little, Brown",
+    "title": "THE HOST",
+    "rank": {
+      "$numberInt": "2"
+    },
+    "rank_last_week": {
+      "$numberInt": "2"
+    },
+    "weeks_on_list": {
+      "$numberInt": "4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1a1"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212192000000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1213488000000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Odd-Hours-Dean-Koontz/dp/0553807056?tag=NYTBS-20",
+    "author": "Dean R Koontz",
+    "description": "Odd Thomas, who can communicate with the dead, confronts evil forces in a California coastal town.",
+    "price": {
+      "$numberInt": "27"
+    },
+    "publisher": "Bantam",
+    "title": "ODD HOURS",
+    "rank": {
+      "$numberInt": "3"
+    },
+    "rank_last_week": {
+      "$numberInt": "1"
+    },
+    "weeks_on_list": {
+      "$numberInt": "2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1a2"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212192000000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1213488000000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Love-Youre-With-Emily-Giffin/dp/0312348665?tag=NYTBS-20",
+    "author": "Emily Giffin",
+    "description": "A woman’s happy marriage is shaken when she encounters an old boyfriend.",
+    "price": {
+      "$numberDouble": "24.95"
+    },
+    "publisher": "St. Martin’s",
+    "title": "LOVE THE ONE YOU'RE WITH",
+    "rank": {
+      "$numberInt": "4"
+    },
+    "rank_last_week": {
+      "$numberInt": "3"
+    },
+    "weeks_on_list": {
+      "$numberInt": "3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1a3"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212192000000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1213488000000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Sundays-at-Tiffanys-James-Patterson/dp/0446199443?tag=NYTBS-20",
+    "author": "James Patterson and Gabrielle Charbonnet",
+    "description": "A woman finds an unexpected love.",
+    "price": {
+      "$numberDouble": "24.99"
+    },
+    "publisher": "Little, Brown",
+    "title": "SUNDAYS AT TIFFANY’S",
+    "rank": {
+      "$numberInt": "5"
+    },
+    "rank_last_week": {
+      "$numberInt": "6"
+    },
+    "weeks_on_list": {
+      "$numberInt": "5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1a4"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212192000000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1213488000000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Chasing-Harry-Winston-A-Novel/dp/0743290119?tag=NYTBS-20",
+    "author": "Lauren Weisberger",
+    "description": "Three glamorous friends, New York women nearing 30, vow to change their lives.",
+    "price": {
+      "$numberDouble": "25.95"
+    },
+    "publisher": "Simon & Schuster",
+    "title": "CHASING HARRY WINSTON",
+    "rank": {
+      "$numberInt": "6"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1a5"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212192000000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1213488000000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/The-Front-Garano-Patricia-Cornwell-ebook/dp/B0017T0C9M?tag=NYTBS-20",
+    "author": "Patricia Cornwell",
+    "description": "A Massachusetts state investigator and his team from “At Risk” confront a rogue association of municipal police departments.",
+    "price": {
+      "$numberDouble": "22.95"
+    },
+    "publisher": "Putnam",
+    "title": "THE FRONT",
+    "rank": {
+      "$numberInt": "7"
+    },
+    "rank_last_week": {
+      "$numberInt": "4"
+    },
+    "weeks_on_list": {
+      "$numberInt": "2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1a6"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212192000000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1213488000000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Devil-Care-James-Bond-Novel/dp/0385524285?tag=NYTBS-20",
+    "author": "Sebastian Faulks",
+    "description": "This continuation of the James Bond franchise finds Bond tracking a dangerous pharmaceutical executive amid cold war tensions with the help of a beautiful girl.",
+    "price": {
+      "$numberDouble": "24.95"
+    },
+    "publisher": "Doubleday",
+    "title": "DEVIL MAY CARE",
+    "rank": {
+      "$numberInt": "8"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1a7"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212192000000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1213488000000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Phantom-Prey-John-Sandford/dp/0425227987?tag=NYTBS-20",
+    "author": "John Sandford",
+    "description": "The Minneapolis detective Lucas Davenport investigates a string of murders of young Goths.",
+    "price": {
+      "$numberDouble": "26.95"
+    },
+    "publisher": "Putnam",
+    "title": "PHANTOM PREY",
+    "rank": {
+      "$numberInt": "9"
+    },
+    "rank_last_week": {
+      "$numberInt": "7"
+    },
+    "weeks_on_list": {
+      "$numberInt": "4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1a8"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212192000000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1213488000000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Snuff-Chuck-Palahniuk/dp/0385517882?tag=NYTBS-20",
+    "author": "Chuck Palahniuk",
+    "description": "An aging porn queen aims to cap her career by having sex on film with 600 men in one day.",
+    "price": {
+      "$numberDouble": "24.95"
+    },
+    "publisher": "Doubleday",
+    "title": "SNUFF",
+    "rank": {
+      "$numberInt": "10"
+    },
+    "rank_last_week": {
+      "$numberInt": "5"
+    },
+    "weeks_on_list": {
+      "$numberInt": "2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1a9"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212192000000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1213488000000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Shadow-Power-Paul-Madriani-Novel/dp/B001OW5OR2?tag=NYTBS-20",
+    "author": "Steve Martini",
+    "description": "The lawyer Paul Madriani searches for a missing letter from Thomas Jefferson that might explain a scholar’s murder.",
+    "price": {
+      "$numberDouble": "26.95"
+    },
+    "publisher": "Morrow",
+    "title": "SHADOW OF POWER",
+    "rank": {
+      "$numberInt": "11"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1aa"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212192000000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1213488000000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Where-Are-You-Now-Novel/dp/1416566384?tag=NYTBS-20",
+    "author": "Elizabeth George",
+    "description": "In Cornwall, trying to recover from his wife’s death, Detective Thomas Lynley becomes involved in a murder investigation.",
+    "price": {
+      "$numberDouble": "27.95"
+    },
+    "publisher": "Harper",
+    "title": "CARELESS IN RED",
+    "rank": {
+      "$numberInt": "12"
+    },
+    "rank_last_week": {
+      "$numberInt": "9"
+    },
+    "weeks_on_list": {
+      "$numberInt": "4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1ab"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212192000000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1213488000000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/The-Whole-Truth-David-Baldacci/dp/0446539686?tag=NYTBS-20",
+    "author": "David Baldacci",
+    "description": "An intelligence agent and a journalist team up against a warmongering defense contractor.",
+    "price": {
+      "$numberDouble": "26.99"
+    },
+    "publisher": "Grand Central",
+    "title": "THE WHOLE TRUTH",
+    "rank": {
+      "$numberInt": "13"
+    },
+    "rank_last_week": {
+      "$numberInt": "10"
+    },
+    "weeks_on_list": {
+      "$numberInt": "6"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1ac"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212192000000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1213488000000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/The-Racing-Rain-Garth-Stein-ebook/dp/B0017SWPXY?tag=NYTBS-20",
+    "author": "Garth Stein",
+    "description": "A Lab-terrier mix with great insight into the human condition helps his owner, a struggling race car driver.",
+    "price": {
+      "$numberDouble": "23.95"
+    },
+    "publisher": "Harper",
+    "title": "THE ART OF RACING IN THE RAIN",
+    "rank": {
+      "$numberInt": "14"
+    },
+    "rank_last_week": {
+      "$numberInt": "13"
+    },
+    "weeks_on_list": {
+      "$numberInt": "2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1ad"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212192000000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1213488000000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Careless-Red-Novel-Elizabeth-George/dp/0061160873?tag=NYTBS-20",
+    "author": "Troy Denning",
+    "description": "The New Jedi order battles Darth Caedus, Darth Vader’s grandson; a “Star Wars: Legacy of the Force” novel.",
+    "price": {
+      "$numberInt": "27"
+    },
+    "publisher": "Del Rey/Ballantine",
+    "title": "INVINCIBLE",
+    "rank": {
+      "$numberInt": "15"
+    },
+    "rank_last_week": {
+      "$numberInt": "11"
+    },
+    "weeks_on_list": {
+      "$numberInt": "3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1ae"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212192000000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1213488000000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/From-Worse-Southern-Vampire-Mysteries/dp/0441015891?tag=NYTBS-20",
+    "author": "Jimmy Buffett",
+    "description": "A Southern family tries to hide its pet pig at a New York luxury hotel.",
+    "price": {
+      "$numberInt": "0"
+    },
+    "publisher": "Little, Brown",
+    "title": "SWINE NOT?",
+    "rank": {
+      "$numberInt": "16"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1af"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212192000000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1213488000000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Blue-Smoke-Murder-Elizabeth-Lowell/dp/0060829869?tag=NYTBS-20",
+    "author": "Elizabeth Lowell",
+    "description": "",
+    "price": {
+      "$numberInt": "0"
+    },
+    "publisher": "HarperCollins Publishers",
+    "title": "BLUE SMOKE AND MURDER",
+    "rank": {
+      "$numberInt": "17"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1b0"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212192000000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1213488000000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Unaccustomed-Earth-Jhumpa-Lahiri/dp/0307265730?tag=NYTBS-20",
+    "author": "James Frey",
+    "description": "A novel, set in Los Angeles, by the author of \"A Million Little Pieces.\"",
+    "price": {
+      "$numberInt": "0"
+    },
+    "publisher": "Harper",
+    "title": "BRIGHT SHINY MORNING",
+    "rank": {
+      "$numberInt": "18"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1b1"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212192000000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1213488000000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/The-Enchantress-Florence-A-Novel/dp/0679640517?tag=NYTBS-20",
+    "author": "Salman Rushdie",
+    "description": "",
+    "price": {
+      "$numberInt": "0"
+    },
+    "publisher": "Random House Publishing Group",
+    "title": "THE ENCHANTRESS OF FLORENCE",
+    "rank": {
+      "$numberInt": "19"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1b2"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212192000000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1213488000000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Unaccustomed-Vintage-Contemporaries-Jhumpa-Lahiri/dp/0307278255?tag=NYTBS-20",
+    "author": "Jhumpa Lahiri",
+    "description": "Stories of the anxiety and transformation experienced by Bengalis in America.",
+    "price": {
+      "$numberInt": "0"
+    },
+    "publisher": "Knopf",
+    "title": "UNACCUSTOMED EARTH",
+    "rank": {
+      "$numberInt": "20"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1b3"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212796800000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214092800000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Nothing-Lose-Jack-Reacher-No/dp/0440245583?tag=NYTBS-20",
+    "author": "Lee Child",
+    "description": "Jack Reacher exposes the secrets of a Colorado town.",
+    "price": {
+      "$numberInt": "27"
+    },
+    "publisher": "Delacorte",
+    "title": "NOTHING TO LOSE",
+    "rank": {
+      "$numberInt": "1"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1b4"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212796800000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214092800000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/The-Host-Novel-Stephenie-Meyer/dp/0316218502?tag=NYTBS-20",
+    "author": "Stephenie Meyer",
+    "description": "Aliens have taken control of the minds and bodies of most humans, but one woman won’t surrender.",
+    "price": {
+      "$numberDouble": "25.99"
+    },
+    "publisher": "Little, Brown",
+    "title": "THE HOST",
+    "rank": {
+      "$numberInt": "2"
+    },
+    "rank_last_week": {
+      "$numberInt": "2"
+    },
+    "weeks_on_list": {
+      "$numberInt": "5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1b5"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212796800000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214092800000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Plague-Ship-The-Oregon-Files/dp/0425226697?tag=NYTBS-20",
+    "author": "Clive Cussler with Jack Du Brul",
+    "description": "Juan Cabrillo and the crew of the Oregon must determine what happened on a cruise ship full of dead bodies.",
+    "price": {
+      "$numberDouble": "26.95"
+    },
+    "publisher": "Putnam",
+    "title": "PLAGUE SHIP",
+    "rank": {
+      "$numberInt": "3"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1b6"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212796800000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214092800000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Love-Youre-With-Emily-Giffin/dp/0312348665?tag=NYTBS-20",
+    "author": "Emily Giffin",
+    "description": "A woman’s happy marriage is shaken when she encounters an old boyfriend.",
+    "price": {
+      "$numberDouble": "24.95"
+    },
+    "publisher": "St. Martin’s",
+    "title": "LOVE THE ONE YOU'RE WITH",
+    "rank": {
+      "$numberInt": "4"
+    },
+    "rank_last_week": {
+      "$numberInt": "4"
+    },
+    "weeks_on_list": {
+      "$numberInt": "4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1b7"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212796800000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214092800000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Blood-Anita-Blake-Vampire-Hunter/dp/0515146374?tag=NYTBS-20",
+    "author": "Laurell K Hamilton",
+    "description": "The vampire hunter Anita Blake is involved in a scandal that threatens the master vampire Jean-Claude’s power.",
+    "price": {
+      "$numberDouble": "25.95"
+    },
+    "publisher": "Berkley",
+    "title": "BLOOD NOIR",
+    "rank": {
+      "$numberInt": "5"
+    },
+    "rank_last_week": {
+      "$numberInt": "1"
+    },
+    "weeks_on_list": {
+      "$numberInt": "2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1b8"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212796800000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214092800000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Chasing-Harry-Winston-A-Novel/dp/0743290119?tag=NYTBS-20",
+    "author": "Lauren Weisberger",
+    "description": "Three glamorous friends, New York women nearing 30, vow to change their lives.",
+    "price": {
+      "$numberDouble": "25.95"
+    },
+    "publisher": "Simon & Schuster",
+    "title": "CHASING HARRY WINSTON",
+    "rank": {
+      "$numberInt": "6"
+    },
+    "rank_last_week": {
+      "$numberInt": "6"
+    },
+    "weeks_on_list": {
+      "$numberInt": "2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1b9"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212796800000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214092800000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Odd-Hours-Dean-Koontz/dp/0553807056?tag=NYTBS-20",
+    "author": "Dean R Koontz",
+    "description": "Odd Thomas, who can communicate with the dead, confronts evil forces in a California coastal town.",
+    "price": {
+      "$numberInt": "27"
+    },
+    "publisher": "Bantam",
+    "title": "ODD HOURS",
+    "rank": {
+      "$numberInt": "7"
+    },
+    "rank_last_week": {
+      "$numberInt": "3"
+    },
+    "weeks_on_list": {
+      "$numberInt": "3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1ba"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212796800000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214092800000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Sundays-at-Tiffanys-James-Patterson/dp/0446199443?tag=NYTBS-20",
+    "author": "James Patterson and Gabrielle Charbonnet",
+    "description": "A woman finds an unexpected love.",
+    "price": {
+      "$numberDouble": "24.99"
+    },
+    "publisher": "Little, Brown",
+    "title": "SUNDAYS AT TIFFANY’S",
+    "rank": {
+      "$numberInt": "8"
+    },
+    "rank_last_week": {
+      "$numberInt": "5"
+    },
+    "weeks_on_list": {
+      "$numberInt": "6"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1bb"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212796800000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214092800000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Death-Honor-Bound-Book/dp/0515146382?tag=NYTBS-20",
+    "author": "W E B Griffin and William E Butterworth IV",
+    "description": "A Marine pilot spies in  Argentina in 1943; the fourth book in the Honor Bound series.",
+    "price": {
+      "$numberDouble": "26.95"
+    },
+    "publisher": "Putnam",
+    "title": "DEATH AND HONOR",
+    "rank": {
+      "$numberInt": "9"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1bc"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212796800000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214092800000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Snuff-Chuck-Palahniuk/dp/0385517882?tag=NYTBS-20",
+    "author": "Chuck Palahniuk",
+    "description": "An aging porn queen aims to have sex on film with 600 men.",
+    "price": {
+      "$numberDouble": "24.95"
+    },
+    "publisher": "Doubleday",
+    "title": "SNUFF",
+    "rank": {
+      "$numberInt": "10"
+    },
+    "rank_last_week": {
+      "$numberInt": "10"
+    },
+    "weeks_on_list": {
+      "$numberInt": "3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1bd"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212796800000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214092800000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Devil-Care-James-Bond-Novel/dp/0385524285?tag=NYTBS-20",
+    "author": "Sebastian Faulks",
+    "description": "James Bond tracks a dangerous executive amid cold war tensions with the help of a beautiful girl.",
+    "price": {
+      "$numberDouble": "24.95"
+    },
+    "publisher": "Doubleday",
+    "title": "DEVIL MAY CARE",
+    "rank": {
+      "$numberInt": "11"
+    },
+    "rank_last_week": {
+      "$numberInt": "8"
+    },
+    "weeks_on_list": {
+      "$numberInt": "2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1be"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212796800000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214092800000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Phantom-Prey-John-Sandford/dp/0425227987?tag=NYTBS-20",
+    "author": "John Sandford",
+    "description": "The Minneapolis detective Lucas Davenport investigates a string of murders of young Goths.",
+    "price": {
+      "$numberDouble": "26.95"
+    },
+    "publisher": "Putnam",
+    "title": "PHANTOM PREY",
+    "rank": {
+      "$numberInt": "12"
+    },
+    "rank_last_week": {
+      "$numberInt": "9"
+    },
+    "weeks_on_list": {
+      "$numberInt": "5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1bf"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212796800000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214092800000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Shadow-Power-Paul-Madriani-Novel/dp/B001OW5OR2?tag=NYTBS-20",
+    "author": "Steve Martini",
+    "description": "The lawyer Paul Madriani searches for a missing letter from Thomas Jefferson that might explain a scholar’s murder.",
+    "price": {
+      "$numberDouble": "26.95"
+    },
+    "publisher": "Morrow",
+    "title": "SHADOW OF POWER",
+    "rank": {
+      "$numberInt": "13"
+    },
+    "rank_last_week": {
+      "$numberInt": "11"
+    },
+    "weeks_on_list": {
+      "$numberInt": "2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1c0"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212796800000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214092800000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/The-Front-Garano-Patricia-Cornwell-ebook/dp/B0017T0C9M?tag=NYTBS-20",
+    "author": "Patricia Cornwell",
+    "description": "A Massachusetts state investigator and his team from “At Risk” confront a rogue association of municipal police departments.",
+    "price": {
+      "$numberDouble": "22.95"
+    },
+    "publisher": "Putnam",
+    "title": "THE FRONT",
+    "rank": {
+      "$numberInt": "14"
+    },
+    "rank_last_week": {
+      "$numberInt": "7"
+    },
+    "weeks_on_list": {
+      "$numberInt": "3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1c1"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212796800000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214092800000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/The-Racing-Rain-Garth-Stein-ebook/dp/B0017SWPXY?tag=NYTBS-20",
+    "author": "Garth Stein",
+    "description": "A Lab-terrier mix with great insight into the human condition helps his owner, a struggling race car driver.",
+    "price": {
+      "$numberDouble": "23.95"
+    },
+    "publisher": "Harper",
+    "title": "THE ART OF RACING IN THE RAIN",
+    "rank": {
+      "$numberInt": "15"
+    },
+    "rank_last_week": {
+      "$numberInt": "14"
+    },
+    "weeks_on_list": {
+      "$numberInt": "3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1c2"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212796800000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214092800000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/The-Spies-Warsaw-A-Novel/dp/0812977378?tag=NYTBS-20",
+    "author": "Alan Furst",
+    "description": "Intrigue in Poland just before World War II.",
+    "price": {
+      "$numberInt": "25"
+    },
+    "publisher": "Random House",
+    "title": "THE SPIES OF WARSAW",
+    "rank": {
+      "$numberInt": "16"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1c3"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212796800000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214092800000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/The-Garden-Last-Days-Novel/dp/0393041654?tag=NYTBS-20",
+    "author": "Andre Dubus",
+    "description": "",
+    "price": {
+      "$numberInt": "0"
+    },
+    "publisher": "Norton & Company, Incorporated, W. W.",
+    "title": "THE GARDEN OF LAST DAYS",
+    "rank": {
+      "$numberInt": "17"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1c4"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212796800000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214092800000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/The-Enchantress-Florence-A-Novel/dp/0679640517?tag=NYTBS-20",
+    "author": "Salman Rushdie",
+    "description": "",
+    "price": {
+      "$numberInt": "0"
+    },
+    "publisher": "Random House Publishing Group",
+    "title": "THE ENCHANTRESS OF FLORENCE",
+    "rank": {
+      "$numberInt": "18"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1c5"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212796800000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214092800000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Resolution-Robert-B-Parker/dp/0425227995?tag=NYTBS-20",
+    "author": "Robert B Parker",
+    "description": "",
+    "price": {
+      "$numberInt": "0"
+    },
+    "publisher": "Penguin Group (USA) Incorporated",
+    "title": "RESOLUTION",
+    "rank": {
+      "$numberInt": "19"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1c6"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1212796800000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214092800000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Where-Are-You-Now-Novel/dp/1416566384?tag=NYTBS-20",
+    "author": "Elizabeth George",
+    "description": "In Cornwall, trying to recover from his wife's death, Detective Thomas Lynley becomes involved in a murder investigation.",
+    "price": {
+      "$numberInt": "0"
+    },
+    "publisher": "Harper",
+    "title": "CARELESS IN RED",
+    "rank": {
+      "$numberInt": "20"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1c7"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1213401600000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214697600000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Sail-James-Patterson/dp/0446536105?tag=NYTBS-20",
+    "author": "James Patterson and Howard Roughan",
+    "description": "A sailing vacation turns into a disaster when someone attempts to destroy a family.",
+    "price": {
+      "$numberDouble": "27.99"
+    },
+    "publisher": "Little, Brown",
+    "title": "SAIL",
+    "rank": {
+      "$numberInt": "1"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1c8"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1213401600000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214697600000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Nothing-Lose-Jack-Reacher-No/dp/0440245583?tag=NYTBS-20",
+    "author": "Lee Child",
+    "description": "Jack Reacher exposes the secrets of a Colorado town.",
+    "price": {
+      "$numberInt": "27"
+    },
+    "publisher": "Delacorte",
+    "title": "NOTHING TO LOSE",
+    "rank": {
+      "$numberInt": "2"
+    },
+    "rank_last_week": {
+      "$numberInt": "1"
+    },
+    "weeks_on_list": {
+      "$numberInt": "2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1c9"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1213401600000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214697600000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/The-Host-Novel-Stephenie-Meyer/dp/0316218502?tag=NYTBS-20",
+    "author": "Stephenie Meyer",
+    "description": "Aliens have taken control of the minds and bodies of most humans, but one woman won’t surrender.",
+    "price": {
+      "$numberDouble": "25.99"
+    },
+    "publisher": "Little, Brown",
+    "title": "THE HOST",
+    "rank": {
+      "$numberInt": "3"
+    },
+    "rank_last_week": {
+      "$numberInt": "2"
+    },
+    "weeks_on_list": {
+      "$numberInt": "6"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1ca"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1213401600000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214697600000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Plague-Ship-The-Oregon-Files/dp/0425226697?tag=NYTBS-20",
+    "author": "Clive Cussler with Jack Du Brul",
+    "description": "Juan Cabrillo and the crew of the Oregon must determine what happened on a cruise ship full of dead bodies.",
+    "price": {
+      "$numberDouble": "26.95"
+    },
+    "publisher": "Putnam",
+    "title": "PLAGUE SHIP",
+    "rank": {
+      "$numberInt": "4"
+    },
+    "rank_last_week": {
+      "$numberInt": "3"
+    },
+    "weeks_on_list": {
+      "$numberInt": "2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1cb"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1213401600000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214697600000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Love-Youre-With-Emily-Giffin/dp/0312348665?tag=NYTBS-20",
+    "author": "Emily Giffin",
+    "description": "A woman’s happy marriage is shaken when she encounters an old boyfriend.",
+    "price": {
+      "$numberDouble": "24.95"
+    },
+    "publisher": "St. Martin’s",
+    "title": "LOVE THE ONE YOU'RE WITH",
+    "rank": {
+      "$numberInt": "5"
+    },
+    "rank_last_week": {
+      "$numberInt": "4"
+    },
+    "weeks_on_list": {
+      "$numberInt": "5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1cc"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1213401600000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214697600000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Chasing-Harry-Winston-A-Novel/dp/0743290119?tag=NYTBS-20",
+    "author": "Lauren Weisberger",
+    "description": "Three glamorous friends, New York women nearing 30, vow to change their lives.",
+    "price": {
+      "$numberDouble": "25.95"
+    },
+    "publisher": "Simon & Schuster",
+    "title": "CHASING HARRY WINSTON",
+    "rank": {
+      "$numberInt": "6"
+    },
+    "rank_last_week": {
+      "$numberInt": "6"
+    },
+    "weeks_on_list": {
+      "$numberInt": "3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1cd"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1213401600000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214697600000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/The-Broken-Window-Lincoln-Rhyme/dp/1416549986?tag=NYTBS-20",
+    "author": "Jeffery Deaver",
+    "description": "Detectives Lincoln Rhyme and Amelia Sachs come up against a criminal who uses identity theft to frame innocent people for murdering his victims.",
+    "price": {
+      "$numberDouble": "26.95"
+    },
+    "publisher": "Simon & Schuster",
+    "title": "THE BROKEN WINDOW",
+    "rank": {
+      "$numberInt": "7"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1ce"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1213401600000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214697600000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Odd-Hours-Dean-Koontz/dp/0553807056?tag=NYTBS-20",
+    "author": "Dean R Koontz",
+    "description": "Odd Thomas, who can communicate with the dead, confronts evil forces in a California coastal town.",
+    "price": {
+      "$numberInt": "27"
+    },
+    "publisher": "Bantam",
+    "title": "ODD HOURS",
+    "rank": {
+      "$numberInt": "8"
+    },
+    "rank_last_week": {
+      "$numberInt": "7"
+    },
+    "weeks_on_list": {
+      "$numberInt": "4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1cf"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1213401600000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214697600000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Married-Lovers-Jackie-Collins/dp/0312341814?tag=NYTBS-20",
+    "author": "Jackie Collins",
+    "description": "An affair between a beautiful personal trainer and a producer married to Hollywood royalty leads to ­murder.",
+    "price": {
+      "$numberDouble": "26.95"
+    },
+    "publisher": "St. Martin’s",
+    "title": "MARRIED LOVERS",
+    "rank": {
+      "$numberInt": "9"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1d0"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1213401600000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214697600000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Sundays-at-Tiffanys-James-Patterson/dp/0446199443?tag=NYTBS-20",
+    "author": "James Patterson and Gabrielle Charbonnet",
+    "description": "A woman finds an unexpected love.",
+    "price": {
+      "$numberDouble": "24.99"
+    },
+    "publisher": "Little, Brown",
+    "title": "SUNDAYS AT TIFFANY’S",
+    "rank": {
+      "$numberInt": "10"
+    },
+    "rank_last_week": {
+      "$numberInt": "8"
+    },
+    "weeks_on_list": {
+      "$numberInt": "7"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1d1"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1213401600000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214697600000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Death-Honor-Bound-Book/dp/0515146382?tag=NYTBS-20",
+    "author": "W E B Griffin and William E Butterworth IV",
+    "description": "A Marine pilot spies in Argentina in 1943; the fourth book in the Honor Bound series.",
+    "price": {
+      "$numberDouble": "26.95"
+    },
+    "publisher": "Putnam",
+    "title": "DEATH AND HONOR",
+    "rank": {
+      "$numberInt": "11"
+    },
+    "rank_last_week": {
+      "$numberInt": "9"
+    },
+    "weeks_on_list": {
+      "$numberInt": "2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1d2"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1213401600000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214697600000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Blood-Anita-Blake-Vampire-Hunter/dp/0515146374?tag=NYTBS-20",
+    "author": "Laurell K Hamilton",
+    "description": "The vampire hunter Anita Blake is involved in a scandal that threatens the master vampire Jean-Claude’s power.",
+    "price": {
+      "$numberDouble": "25.95"
+    },
+    "publisher": "Berkley",
+    "title": "BLOOD NOIR",
+    "rank": {
+      "$numberInt": "12"
+    },
+    "rank_last_week": {
+      "$numberInt": "5"
+    },
+    "weeks_on_list": {
+      "$numberInt": "3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1d3"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1213401600000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214697600000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/The-Racing-Rain-Garth-Stein-ebook/dp/B0017SWPXY?tag=NYTBS-20",
+    "author": "Garth Stein",
+    "description": "A Lab-terrier mix with great insight into the human condition helps his owner, a struggling race car driver.",
+    "price": {
+      "$numberDouble": "23.95"
+    },
+    "publisher": "Harper",
+    "title": "THE ART OF RACING IN THE RAIN",
+    "rank": {
+      "$numberInt": "13"
+    },
+    "rank_last_week": {
+      "$numberInt": "15"
+    },
+    "weeks_on_list": {
+      "$numberInt": "4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1d4"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1213401600000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214697600000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Story-Edgar-Sawtelle-David-Wroblewski/dp/B005DIGU4O?tag=NYTBS-20",
+    "author": "David Wroblewski",
+    "description": "A young mute who can communicate with dogs his family raises takes refuge with three of them in the Wisconsin woods after his uncle murders his father.",
+    "price": {
+      "$numberDouble": "25.95"
+    },
+    "publisher": "Ecco",
+    "title": "THE STORY OF EDGAR SAWTELLE",
+    "rank": {
+      "$numberInt": "14"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1d5"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1213401600000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214697600000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Devil-Care-James-Bond-Novel/dp/0385524285?tag=NYTBS-20",
+    "author": "Sebastian Faulks",
+    "description": "James Bond tracks a dangerous executive amid cold war tensions with the help of a beautiful girl.",
+    "price": {
+      "$numberDouble": "24.95"
+    },
+    "publisher": "Doubleday",
+    "title": "DEVIL MAY CARE",
+    "rank": {
+      "$numberInt": "15"
+    },
+    "rank_last_week": {
+      "$numberInt": "11"
+    },
+    "weeks_on_list": {
+      "$numberInt": "3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1d6"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1213401600000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214697600000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/The-Appeal-John-Grisham/dp/0440243815?tag=NYTBS-20",
+    "author": "John Grisham",
+    "description": "Political and legal intrigue ensue when a Mississippi court rules against a company accused of dumping toxic waste.",
+    "price": {
+      "$numberInt": "0"
+    },
+    "publisher": "Doubleday Publishing",
+    "title": "THE APPEAL",
+    "rank": {
+      "$numberInt": "16"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1d7"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1213401600000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214697600000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/The-Spies-Warsaw-A-Novel/dp/0812977378?tag=NYTBS-20",
+    "author": "Alan Furst",
+    "description": "Intrigue in Poland just before World War II.",
+    "price": {
+      "$numberInt": "0"
+    },
+    "publisher": "Random House",
+    "title": "THE SPIES OF WARSAW",
+    "rank": {
+      "$numberInt": "17"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1d8"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1213401600000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214697600000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Snuff-Chuck-Palahniuk/dp/0385517882?tag=NYTBS-20",
+    "author": "Chuck Palahniuk",
+    "description": "An aging porn queens aims to cap her career by having sex on film with 600 men in one day.",
+    "price": {
+      "$numberInt": "0"
+    },
+    "publisher": "Doubleday",
+    "title": "SNUFF",
+    "rank": {
+      "$numberInt": "18"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1d9"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1213401600000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214697600000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/The-Brief-Wondrous-Life-Oscar/dp/1594483299?tag=NYTBS-20",
+    "author": "Junot Díaz",
+    "description": "A nerdy Dominican-American struggles to escape a family curse.",
+    "price": {
+      "$numberInt": "0"
+    },
+    "publisher": "Riverhead",
+    "title": "THE BRIEF WONDROUS LIFE OF OSCAR WAO",
+    "rank": {
+      "$numberInt": "19"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1da"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1213401600000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1214697600000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Shadow-Power-Paul-Madriani-Novel/dp/B001OW5OR2?tag=NYTBS-20",
+    "author": "Steve Martini",
+    "description": "The lawyer Paul Madriani searches for a missing letter from Thomas Jefferson that might explain a scholar’s murder.",
+    "price": {
+      "$numberInt": "0"
+    },
+    "publisher": "Morrow",
+    "title": "SHADOW OF POWER",
+    "rank": {
+      "$numberInt": "20"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1db"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1214006400000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1215302400000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Fearless-Fourteen-Janet-Evanovich/dp/0312349513?tag=NYTBS-20",
+    "author": "Janet Evanovich",
+    "description": "Stephanie Plum and her boyfriend Joe Morelli become involved when his cousin’s bank robbery goes bad.",
+    "price": {
+      "$numberDouble": "27.95"
+    },
+    "publisher": "St. Martin’s",
+    "title": "FEARLESS FOURTEEN",
+    "rank": {
+      "$numberInt": "1"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1dc"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1214006400000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1215302400000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Sail-James-Patterson/dp/0446536105?tag=NYTBS-20",
+    "author": "James Patterson and Howard Roughan",
+    "description": "A sailing vacation turns into a disaster when someone attempts to destroy a family.",
+    "price": {
+      "$numberDouble": "27.99"
+    },
+    "publisher": "Little, Brown",
+    "title": "SAIL",
+    "rank": {
+      "$numberInt": "2"
+    },
+    "rank_last_week": {
+      "$numberInt": "1"
+    },
+    "weeks_on_list": {
+      "$numberInt": "2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1dd"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1214006400000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1215302400000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/The-Host-Novel-Stephenie-Meyer/dp/0316218502?tag=NYTBS-20",
+    "author": "Stephenie Meyer",
+    "description": "Aliens have taken control of the minds and bodies of most humans, but one woman won’t surrender.",
+    "price": {
+      "$numberDouble": "25.99"
+    },
+    "publisher": "Little, Brown",
+    "title": "THE HOST",
+    "rank": {
+      "$numberInt": "3"
+    },
+    "rank_last_week": {
+      "$numberInt": "3"
+    },
+    "weeks_on_list": {
+      "$numberInt": "7"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1de"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1214006400000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1215302400000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Chasing-Harry-Winston-A-Novel/dp/0743290119?tag=NYTBS-20",
+    "author": "Lauren Weisberger",
+    "description": "Three glamorous friends, New York women nearing 30, vow to change their lives.",
+    "price": {
+      "$numberDouble": "25.95"
+    },
+    "publisher": "Simon & Schuster",
+    "title": "CHASING HARRY WINSTON",
+    "rank": {
+      "$numberInt": "4"
+    },
+    "rank_last_week": {
+      "$numberInt": "6"
+    },
+    "weeks_on_list": {
+      "$numberInt": "4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1df"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1214006400000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1215302400000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Love-Youre-With-Emily-Giffin/dp/0312348665?tag=NYTBS-20",
+    "author": "Emily Giffin",
+    "description": "A woman’s happy marriage is shaken.",
+    "price": {
+      "$numberDouble": "24.95"
+    },
+    "publisher": "St. Martin’s",
+    "title": "LOVE THE ONE YOU'RE WITH",
+    "rank": {
+      "$numberInt": "5"
+    },
+    "rank_last_week": {
+      "$numberInt": "5"
+    },
+    "weeks_on_list": {
+      "$numberInt": "6"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1e0"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1214006400000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1215302400000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Nothing-Lose-Jack-Reacher-No/dp/0440245583?tag=NYTBS-20",
+    "author": "Lee Child",
+    "description": "Jack Reacher exposes the secrets of a Colorado town.",
+    "price": {
+      "$numberInt": "27"
+    },
+    "publisher": "Delacorte",
+    "title": "NOTHING TO LOSE",
+    "rank": {
+      "$numberInt": "6"
+    },
+    "rank_last_week": {
+      "$numberInt": "2"
+    },
+    "weeks_on_list": {
+      "$numberInt": "3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1e1"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1214006400000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1215302400000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Plague-Ship-The-Oregon-Files/dp/0425226697?tag=NYTBS-20",
+    "author": "Clive Cussler with Jack Du Brul",
+    "description": "Juan Cabrillo and the crew of the Oregon must determine what happened on a cruise ship full of dead bodies.",
+    "price": {
+      "$numberDouble": "26.95"
+    },
+    "publisher": "Putnam",
+    "title": "PLAGUE SHIP",
+    "rank": {
+      "$numberInt": "7"
+    },
+    "rank_last_week": {
+      "$numberInt": "4"
+    },
+    "weeks_on_list": {
+      "$numberInt": "3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1e2"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1214006400000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1215302400000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/The-Broken-Window-Lincoln-Rhyme/dp/1416549986?tag=NYTBS-20",
+    "author": "Jeffery Deaver",
+    "description": "Detectives Lincoln Rhyme and Amelia Sachs confront a criminal who frames innocent people.",
+    "price": {
+      "$numberDouble": "26.95"
+    },
+    "publisher": "Simon & Schuster",
+    "title": "THE BROKEN WINDOW",
+    "rank": {
+      "$numberInt": "8"
+    },
+    "rank_last_week": {
+      "$numberInt": "7"
+    },
+    "weeks_on_list": {
+      "$numberInt": "2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1e3"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1214006400000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1215302400000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Story-Edgar-Sawtelle-David-Wroblewski/dp/B005DIGU4O?tag=NYTBS-20",
+    "author": "David Wroblewski",
+    "description": "A mute takes refuge with three dogs in the Wisconsin woods after his uncle murders his father.",
+    "price": {
+      "$numberDouble": "25.95"
+    },
+    "publisher": "Ecco",
+    "title": "THE STORY OF EDGAR SAWTELLE",
+    "rank": {
+      "$numberInt": "9"
+    },
+    "rank_last_week": {
+      "$numberInt": "14"
+    },
+    "weeks_on_list": {
+      "$numberInt": "2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1e4"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1214006400000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1215302400000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/No-Choice-But-Seduction-Malory/dp/1416537333?tag=NYTBS-20",
+    "author": "Johanna Lindsey",
+    "description": "Sir Anthony Malory’s daughter is kidnapped, with repercussions for Katey and Boyd Anderson.",
+    "price": {
+      "$numberInt": "25"
+    },
+    "publisher": "Pocket Books",
+    "title": "NO CHOICE BUT SEDUCTION",
+    "rank": {
+      "$numberInt": "10"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1e5"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1214006400000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1215302400000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/The-Beach-House-A-Novel/dp/0452295386?tag=NYTBS-20",
+    "author": "Jane Green",
+    "description": "A woman’s life changes when she rents out rooms in her Nantucket house.",
+    "price": {
+      "$numberInt": "0"
+    },
+    "publisher": "Viking, $24.95",
+    "title": "THE BEACH HOUSE",
+    "rank": {
+      "$numberInt": "11"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1e6"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1214006400000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1215302400000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Odd-Hours-Dean-Koontz/dp/0553807056?tag=NYTBS-20",
+    "author": "Dean R Koontz",
+    "description": "Odd Thomas, who can communicate with the dead, confronts evil forces in a California coastal town.",
+    "price": {
+      "$numberInt": "27"
+    },
+    "publisher": "Bantam",
+    "title": "ODD HOURS",
+    "rank": {
+      "$numberInt": "12"
+    },
+    "rank_last_week": {
+      "$numberInt": "8"
+    },
+    "weeks_on_list": {
+      "$numberInt": "5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1e7"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1214006400000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1215302400000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Married-Lovers-Jackie-Collins/dp/0312341814?tag=NYTBS-20",
+    "author": "Jackie Collins",
+    "description": "An affair between a beautiful personal trainer and a producer married to Hollywood royalty leads to ­murder.",
+    "price": {
+      "$numberDouble": "26.95"
+    },
+    "publisher": "St. Martin’s",
+    "title": "MARRIED LOVERS",
+    "rank": {
+      "$numberInt": "13"
+    },
+    "rank_last_week": {
+      "$numberInt": "9"
+    },
+    "weeks_on_list": {
+      "$numberInt": "2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1e8"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1214006400000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1215302400000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Sundays-at-Tiffanys-James-Patterson/dp/0446199443?tag=NYTBS-20",
+    "author": "James Patterson and Gabrielle Charbonnet",
+    "description": "A woman finds an unexpected love.",
+    "price": {
+      "$numberDouble": "24.99"
+    },
+    "publisher": "Little, Brown",
+    "title": "SUNDAYS AT TIFFANY’S",
+    "rank": {
+      "$numberInt": "14"
+    },
+    "rank_last_week": {
+      "$numberInt": "10"
+    },
+    "weeks_on_list": {
+      "$numberInt": "8"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1e9"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1214006400000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1215302400000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/The-Racing-Rain-Garth-Stein-ebook/dp/B0017SWPXY?tag=NYTBS-20",
+    "author": "Garth Stein",
+    "description": "A Lab-terrier mix with great insight into the human condition helps his owner, a struggling race car driver.",
+    "price": {
+      "$numberDouble": "23.95"
+    },
+    "publisher": "Harper",
+    "title": "THE ART OF RACING IN THE RAIN",
+    "rank": {
+      "$numberInt": "15"
+    },
+    "rank_last_week": {
+      "$numberInt": "13"
+    },
+    "weeks_on_list": {
+      "$numberInt": "5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1ea"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1214006400000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1215302400000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Blood-Anita-Blake-Vampire-Hunter/dp/0515146374?tag=NYTBS-20",
+    "author": "Laurell K Hamilton",
+    "description": "The vampire hunter Anita Blake is involved in a scandal that threatens the master vampire Jean-Claude’s power.",
+    "price": {
+      "$numberDouble": "25.95"
+    },
+    "publisher": "Berkley",
+    "title": "BLOOD NOIR",
+    "rank": {
+      "$numberInt": "16"
+    },
+    "rank_last_week": {
+      "$numberInt": "12"
+    },
+    "weeks_on_list": {
+      "$numberInt": "4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1eb"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1214006400000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1215302400000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Snuff-Chuck-Palahniuk/dp/0385517882?tag=NYTBS-20",
+    "author": "Chuck Palahniuk",
+    "description": "An aging porn queens aims to cap her career by having sex on film with 600 men in one day.",
+    "price": {
+      "$numberInt": "0"
+    },
+    "publisher": "Doubleday",
+    "title": "SNUFF",
+    "rank": {
+      "$numberInt": "17"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1ec"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1214006400000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1215302400000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Death-Honor-Bound-Book/dp/0515146382?tag=NYTBS-20",
+    "author": "W E B Griffin and William E Butterworth IV",
+    "description": "A Marine pilot spies in  Argentina in 1943; the fourth book in the Honor Bound series.",
+    "price": {
+      "$numberInt": "0"
+    },
+    "publisher": "Putnam",
+    "title": "DEATH AND HONOR",
+    "rank": {
+      "$numberInt": "18"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1ed"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1214006400000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1215302400000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/The-Spies-Warsaw-A-Novel/dp/0812977378?tag=NYTBS-20",
+    "author": "Alan Furst",
+    "description": "Intrigue in Poland just before World War II.",
+    "price": {
+      "$numberInt": "0"
+    },
+    "publisher": "Random House",
+    "title": "THE SPIES OF WARSAW",
+    "rank": {
+      "$numberInt": "19"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5b4aa4ead3089013507db1ee"
+    },
+    "bestsellers_date": {
+      "$date": {
+        "$numberLong": "1214006400000"
+      }
+    },
+    "published_date": {
+      "$date": {
+        "$numberLong": "1215302400000"
+      }
+    },
+    "amazon_product_url": "http://www.amazon.com/Phantom-Prey-John-Sandford/dp/0425227987?tag=NYTBS-20",
+    "author": "John Sandford",
+    "description": "The Minneapolis detective Lucas Davenport investigates a string of murders of young Goths.",
+    "price": {
+      "$numberInt": "0"
+    },
+    "publisher": "Putnam",
+    "title": "PHANTOM PREY",
+    "rank": {
+      "$numberInt": "20"
+    },
+    "rank_last_week": {
+      "$numberInt": "0"
+    },
+    "weeks_on_list": {
+      "$numberInt": "0"
+    }
+  }
+]
