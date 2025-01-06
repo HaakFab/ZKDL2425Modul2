@@ -3,15 +3,18 @@
 import streamlit as st
 import pyterrier as pt
 import pickle
+import os
 
-if not pt.started():
-    pt.init()
+if not pt.java.started():
+    pt.java.init()
+
+INDEX_PATH = os.getcwd() + "/ai_index_mult/data.properties"
+DATA_PATH =  os.getcwd() + "/ai_index_mult/ai_publications.pkl"
 
 def init():
-
-    index = pt.IndexFactory.of("/ai_index_mult/data.properties")
-    st.session_state["engine"] = pt.BatchRetrieve(index, wmodel="TF_IDF")
-    st.session_state["data"] = pickle.load(open("/workspace/ai_publications.pkl", "rb"))
+    index = pt.IndexFactory.of(INDEX_PATH)
+    st.session_state["engine"] = pt.terrier.Retriever(index, wmodel="TF_IDF")
+    st.session_state["data"] = pickle.load(open(DATA_PATH, "rb"))
 
 def search(query):
 
