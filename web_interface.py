@@ -22,8 +22,14 @@ def search(query):
     fields_to_show = ['text', 'tags', 'url', 'author', 'description']
 
     for _, row in res.iterrows():
+
+       
         score = round(row['score'], 2)
-        entry = st.session_state["data"][st.session_state["data"]['docno'] == row['docno']].iloc[0]
+
+        sel_entry = st.session_state["data"][st.session_state["data"]['docno'] == row['docno']]
+        if sel_entry.empty:
+            continue 
+        entry = sel_entry.iloc[0]
 
         for field in fields_to_show:
             if field == "text":
